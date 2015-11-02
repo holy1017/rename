@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="synthetica_2.20.0_eval/synthetica.jar"/>
+	<classpathentry kind="lib" path="UIManager/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="UIManager/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="UIManager/syntheticaBlackMoon.jar"/>
+	<classpathentry kind="lib" path="UIManager/syntheticaBlueMoon.jar"/>
+	<classpathentry kind="lib" path="UIManager/syntheticaBlueSteel.jar"/>
+	<classpathentry kind="lib" path="UIManager/syntheticaMauveMetallic.jar"/>
+	<classpathentry kind="lib" path="UIManager/syntheticaOrangeMetallic.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
